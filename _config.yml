@@ -7,11 +7,11 @@ plugins:
 permalink:           pretty
 
 # Setup
-url:                 'https://pushdown99.github.io'
+url:                 'https://soolonline.github.io'
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             'https://pushdown99.github.io'
+baseurl:             'https://soolonline.github.io'
 # baseurl:             /hydejack
 
 title:               The Early Novels Database
