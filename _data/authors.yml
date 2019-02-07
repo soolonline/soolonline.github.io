@@ -1,42 +1,42 @@
 kangsoonju:
-  name:           Kang Soonju
-  position:       Project Coordinator, Sound Editor
+  name:           강순주
+  position:       음악/예술
   year:           [2019]
   avatar:         /public/img/person.jpg
   bio:            "Kang Soonju is a ..."
 
 leemoongeum:
-  name:           Lee Moongeum
-  position:       Researcher, Food Coordinator
+  name:           이문금
+  position:       푸드
   year:           [2019]
   avatar:         /public/img/person.jpg
   bio:            "Lee Moongeum is a ..."
 
 hwanghaeyeon:
-  name:           Hwang Haeyeon
-  position:       IT Researcher
+  name:           황해연
+  position:       IT/솔루션
   year:           [2019]
   site:           http://pushdown99.github.io
   avatar:         /public/img/person.jpg
   bio:            "Hwang Haeyeon is a ..."
 
 kimminji:
-  name:           Kim Minji
-  position:       Project Coordinator, Sound Editor
+  name:           김민지
+  position:       주조 
   year:           [2019]
   avatar:         /public/img/person.jpg
   bio:            "Kim Minji is a ..."
 
 leekyungil:
-  name:           Lee Kyungil
-  position:       Research Coordinator
+  name:           이경일
+  position:       광고/홍보/마케팅
   year:           [2019]
   avatar:         /public/img/person.jpg
   bio:            "Lee Kyungil is a ..."
 
 leehyunkyu:
-  name:           Lee Hyunkyu
-  position:       Research Coordinator
+  name:           이현규
+  position:       세일즈
   year:           [2019]
   avatar:         /public/img/person.jpg
   bio:            "Lee Hyunkyu is a ..."
