@@ -14,7 +14,7 @@ url:                 'https://soolonline.github.io'
 baseurl:             'https://soolonline.github.io'
 # baseurl:             /hydejack
 
-title:               The Early Novels Database
+title:               Sool Online
 
 # Pagination
 paginate:            5
