@@ -20,10 +20,8 @@ layout: default
 <h2 class="page-title">Core Contributors</h2>
 
 {% for author in site.data.authors %}
-  {% for item in author[1].year %}
-    {% if item == "corecontrib" %}
+  {% if author[0] != "kangsoonju" %}
       {% include teammember.html %}
       <br>
-    {% endif %}
   {% endfor %}
 {% endfor %}
