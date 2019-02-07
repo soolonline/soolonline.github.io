@@ -124,3 +124,5 @@ collections:
   projects:
     output: true
     permalink: /projects/:path
+
+lang: cc-ll
