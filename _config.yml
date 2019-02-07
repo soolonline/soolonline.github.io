@@ -96,7 +96,7 @@ author:
 google_analytics_id: 'UA-27086121-10'
 
 # Setting a disqus subdomain will enable the comment section
-disqus:            soolonline
+# disqus:            soolonline
 
 kramdown:
   math_engine:       mathjax
