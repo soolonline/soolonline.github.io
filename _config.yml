@@ -14,7 +14,7 @@ url:                 'https://soolonline.github.io'
 baseurl:             'https://soolonline.github.io'
 # baseurl:             /hydejack
 
-title:               Sool Online
+title:               '전통주 이야기'
 
 # Pagination
 paginate:            5
