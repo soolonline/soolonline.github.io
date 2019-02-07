@@ -12,13 +12,22 @@
     {% endif %}
     {% if site.author.social %}
     custom: {
-      families: ['icomoon', 'NanumBarunGothic-YetHangul'],
+      families: ['icomoon'],
       urls: ['{{ site.baseurl }}/public/css/icons.css']
     },
     {% endif %}
     classes: false,
     events: false
   };
+
+  @font-face {
+  font-family: 'NanumBarunGothic-YetHangul';
+  font-style: normal;
+  font-weight: 400;
+  src: local('NanumBarunGothic-YetHangul'),
+       url('{{ site.baseurl }}/public/fonts/NanumBarunGothic-YetHangul.ttf') format('truetype');
+}
+
   </script>
   <script>loadJSDeferred('https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js')</script>
 {% endif %}
