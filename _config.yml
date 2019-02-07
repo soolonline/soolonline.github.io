@@ -14,7 +14,7 @@ url:                 'https://soolonline.github.io'
 baseurl:             'https://soolonline.github.io'
 # baseurl:             /hydejack
 
-title:               'sool stories'
+title:               'Sool-mellowing village'
 
 # Pagination
 paginate:            5
@@ -22,7 +22,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  Slow metadata for old novels.
+  Korean traditional liquor.
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [blog]
