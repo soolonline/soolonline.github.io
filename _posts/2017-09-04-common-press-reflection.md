@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reflection: The Common Press"
-author: emmahetrick
+author: haeyeonhwang
 tags: [blog]
 description: >
 
