@@ -8,9 +8,6 @@ description: >
 ---
 
 ### 재료 및 분량 (밑술)
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    |
 
 | 재료 |분량|
 |-----------------|:-----------|
@@ -27,6 +24,7 @@ description: >
 **(덧술시기는 발효상태를 보고 정한다.)**
 
 ### 재료 및 분량 (덧술)
+
 | 재료 |분량|
 |-----------------|:-----------|
 | 찹쌀 |4Kg |
