@@ -14,9 +14,11 @@ description: >
 누룩|480g
 끓여 식힌 물|4.8L
 
-|: 재료 :|:분량:|
+| 재료 |분량|
 |-----------------|-----------|
-| 멥쌀가루 |960g |
+| 멥쌀가루 |960g|
+| 누룩 |480g|
+| 끓여 식힌 물 |4.8L|
 
 
 Default aligned |Left aligned| Center aligned  | Right aligned  
