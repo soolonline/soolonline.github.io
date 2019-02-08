@@ -8,11 +8,17 @@ description: >
 ---
 
 ### 재료 및 분량 (밑술)
-|재료|분량|
+|재료             |분량        |
 |-----------------|-----------|
 | 멥쌀가루 | 960g |
 | 누룩 | 480g |
 | 끓여 식힌 물 | 4.8L |
+
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+
+
 
 ### 만드는 순서
 1. 누룩은 잘게 부숴 법제(法製)한다.
