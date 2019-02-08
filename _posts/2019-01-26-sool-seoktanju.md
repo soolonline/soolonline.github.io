@@ -7,11 +7,9 @@ description: >
 
 ---
 
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    |
-
 ### 재료 및 분량 (밑술)
+|재료|분량|
+|-----------------|-----------|
 | 멥쌀가루 | 960g |
 | 누룩 | 480g |
 | 끓여 식힌 물 | 4.8L |
