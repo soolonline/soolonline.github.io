@@ -14,9 +14,9 @@ description: >
 누룩|480g
 끓여 식힌 물|4.8L
 
-| Default aligned |분량 aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    |
+| 재료 |분량|
+|-----------------|-----------|
+| First body part |960g |
 
 
 Default aligned |Left aligned| Center aligned  | Right aligned  
