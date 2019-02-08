@@ -35,7 +35,10 @@
 
 @import "jekyll-github";
 
-@font-face {
-	  font-family: "NanumMyeongjo-YetHangul";
-		  src: url( '../fonts/NanumMyeongjo-YetHangul.ttf') format( 'truetype');
+@font-face{ 
+	font-family: 'NanumMyeongjo-YetHangul';
+	src: url('NanumMyeongjo-YetHangul.eot');
+	src: url('NanumMyeongjo-YetHangul.eot?#iefix') format('embedded-opentype'),
+	     url('NanumMyeongjo-YetHangul.woff') format('woff'),
+	     url('NanumMyeongjo-YetHangul.ttf') format('truetype');
 }
