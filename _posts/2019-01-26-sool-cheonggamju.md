@@ -7,12 +7,16 @@ description: >
 
 ---
 
+### 물을 섞지 않고 찹쌀을 밥으로 쪄서 누룩을 섞어 빚는 술. [*한국민족문화대백과사전*](http://encykorea.aks.ac.kr/Contents/SearchNavi?keyword=%EC%B2%AD%EA%B0%90%EC%A3%BC&ridx=0&tot=1051)
+『고사촬요 攷事撮要』·『치생요람 治生要覽』·『산림경제』·『민천집설 民天集說』·『임원경제지』·『시의전서 是議全書』 등의 문헌에 빈번하게 나온다.
+제조법은 찹쌀 한 말을 쪄서 지에밥을 만들어 여기에 누룩 다섯 홉을 섞고 물 대신 좋은 술 한 병을 부어 빚는다. 특별한 양조법으로 물을 섞지 않고 달게 빚어지는 것이 특징이다.
+
+### 참고문헌
+* [고사촬요(攷事撮要)](http://www.nl.go.kr/nl/search/search.jsp?all=on&topF1=title_author&kwd=%EA%B3%A0%EC%82%AC%EC%B4%AC%EC%9A%94(%E6%94%B7%E4%BA%8B%E6%92%AE%E8%A6%81)
+* [한국식품사회사  (이성우, 교문사, 1984)](http://www.nl.go.kr/nl/search/search.jsp?all=on&topF1=title_author&kwd=%ED%95%9C%EA%B5%AD%EC%8B%9D%ED%92%88%EC%82%AC%ED%9A%8C%EC%82%AC)
+
 ### 재료 및 분량
-| 재료 |분량|
-|-----------------|:-----------|
-| 찹쌀 |5Kg |
-| 누룩 |600g |
-| 좋은술 |5L | 
+찹쌀 5Kg, 누룩 600g, 좋은술 5L 
 
 ### 만드는 순서
 1. 누룩은 잘게 부숴 법제(法製)한다.
