@@ -8,7 +8,8 @@ description: >
 ---
 
 ### 정의 및 내용  
-물을 섞지 않고 찹쌀을 밥으로 쪄서 누룩을 섞어 빚는 술. [*한국민족문화대백과사전*](http://encykorea.aks.ac.kr/Contents/SearchNavi?keyword=%EC%B2%AD%EA%B0%90%EC%A3%BC&ridx=0&tot=1051)  
+물을 섞지 않고 찹쌀을 밥으로 쪄서 누룩을 섞어 빚는 술. (출처: [*한국민족문화대백과사전*](http://encykorea.aks.ac.kr/Contents/SearchNavi?keyword=%EC%B2%AD%EA%B0%90%EC%A3%BC&ridx=0&tot=1051))  
+
 『고사촬요 攷事撮要』·『치생요람 治生要覽』·『산림경제』·『민천집설 民天集說』·『임원경제지』·『시의전서 是議全書』 등의 문헌에 빈번하게 나온다.
 제조법은 찹쌀 한 말을 쪄서 지에밥을 만들어 여기에 누룩 다섯 홉을 섞고 물 대신 좋은 술 한 병을 부어 빚는다. 특별한 양조법으로 물을 섞지 않고 달게 빚어지는 것이 특징이다.
 
