@@ -17,6 +17,7 @@ description: >
 * [고사촬요(攷事撮要)](http://www.nl.go.kr/nl/search/search.jsp?img=n&hanja=&sort=&desc=desc&all=on&topF1=title_author&kwd=%EA%B3%A0%EC%82%AC%EC%B4%AC%EC%9A%94&x=0&y=0)
 * [한국식품사회사  (이성우, 교문사, 1984)](http://www.nl.go.kr/nl/search/search.jsp?all=on&topF1=title_author&kwd=%ED%95%9C%EA%B5%AD%EC%8B%9D%ED%92%88%EC%82%AC%ED%9A%8C%EC%82%AC)
 
+---
 ### 청감주(淸甘酒) 만들기 
 
 #### 재료 및 분량

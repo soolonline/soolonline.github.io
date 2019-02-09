@@ -18,6 +18,7 @@ description: >
 * [음식방문](http://www.nl.go.kr/nl/search/search.jsp?all=on&topF1=title_author&kwd=%EC%9D%8C%EC%8B%9D%EB%B0%A9%EB%AC%B8)
 * 『한국식품사회사(韓國食品社會史)』 ( 이성우 ,교문사,1984)
 
+---
 ### 석탄주(惜呑酒) 만들기
 
 #### 재료 및 분량 (밑술)
