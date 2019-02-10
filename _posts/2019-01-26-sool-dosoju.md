@@ -19,7 +19,6 @@ description: >
 이 풍속은 중국에서도 거의 사라졌으며, 우리나라에서는 노인층이나 식자층에서 간혹 볼 수 있다. 흔히, 청주나 약주를 세주로 사용하고 있다.
 
 #### 참고문헌
-* [양주방](http://www.nl.go.kr/nl/search/search.jsp?all=on&topF1=title_author&kwd=%EC%96%91%EC%A3%BC%EB%B0%A9)
 * [열양세시기(洌陽歲時記)](http://www.nl.go.kr/nl/search/search.jsp?all=on&topF1=title_author&kwd=%EC%97%B4%EC%96%91%EC%84%B8%EC%8B%9C%EA%B8%B0(%E6%B4%8C%E9%99%BD%E6%AD%B2%E6%99%82%E8%A8%98)
 * [동국세시기(東國歲時記)](http://www.nl.go.kr/nl/search/search.jsp?all=on&topF1=title_author&kwd=%EB%8F%99%EA%B5%AD%EC%84%B8%EC%8B%9C%EA%B8%B0(%E6%9D%B1%E5%9C%8B%E6%AD%B2%E6%99%82%E8%A8%98)
 * 『한국세시풍속연구(韓國歲時風俗硏究)』 (임동권 ,집문당,1985)
