@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "과하주(過夏酒)"
-author: haeyeonhwang
+author: hwanghaeyeon
 tags: [blog]
 description: >
 

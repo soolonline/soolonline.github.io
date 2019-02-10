@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "청감주(淸甘酒)"
-author: haeyeonhwang
+author: hwanghaeyeon
 tags: [blog]
 description: >
 

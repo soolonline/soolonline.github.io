@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "소곡주(素麯酒)"
-author: haeyeonhwang
+author: hwanghaeyeon
 tags: [blog]
 description: >
 

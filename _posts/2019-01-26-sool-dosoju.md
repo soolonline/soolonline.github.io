@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "도소주(屠蘇酒)"
-author: haeyeonhwang
+author: hwanghaeyeon
 tags: [blog]
 description: >
 

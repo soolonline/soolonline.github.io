@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "부의주(浮蟻酒; 동동주)"
-author: haeyeonhwang
+author: hwanghaeyeon
 tags: [blog]
 description: >
 
